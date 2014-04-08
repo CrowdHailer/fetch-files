@@ -1,0 +1,15 @@
+source 'https://rubygems.org'
+
+ruby '2.1.0'
+
+group :doc do
+end
+
+group :test do
+end
+
+group :development do
+end
+
+group :development, :test do
+end
